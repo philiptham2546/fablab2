@@ -163,8 +163,8 @@ button:hover{
 }*/
 
 #us-map{
-    width: clamp(40vw,100%,100vw);
-    height: clamp(30vw,100%,100vw);
+    width: 600px/*clamp(40vw,100%,100vw)*/;
+    height: 600px/*clamp(30vw,100%,100vw)*/;
 }
 
 tr{
