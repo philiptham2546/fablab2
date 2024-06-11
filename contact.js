@@ -1,4 +1,4 @@
-const menu_btns = document.querySelectorAll("button");
+const menu_btns = document.querySelectorAll(".menu_btn");
 
 for (let btn of menu_btns){
     btn.addEventListener("mouseover",(event)=>{
