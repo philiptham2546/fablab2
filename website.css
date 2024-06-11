@@ -99,6 +99,7 @@ button:hover{
     grid-row:2/3;
     grid-column:1/2;
     min-width:50vw;
+    min-height:500px;
     display: grid;
     justify-content: left;
     padding-left: 30px;
@@ -163,7 +164,7 @@ button:hover{
 }*/
 
 #usmap{
-    width: clamp(40vw, 100%, 100vw);
+    max-width:100%;
     height: clamp(40vh, 100%, 100vh);
 }
 
