@@ -165,8 +165,8 @@ button:hover{
 }*/
 
 #usmap{
-    width: clamp(40vw,100%,100vw);
-    height: clamp(30vh,100%,100vh);
+    width: clamp(20vw,100%,100vw);
+    height: clamp(20vh,100%,100vh);
 }
 
 tr{
