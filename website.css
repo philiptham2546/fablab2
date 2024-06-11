@@ -6,10 +6,10 @@ body{
     height:100vh;
     --barnard_blue: #012f6c;
 }
-
+/*
 .container{
     border:1px black solid;
-}
+}*/
 
 .top{
     grid-row:1/2;
