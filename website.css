@@ -1,7 +1,7 @@
 body{
     font-family: Helvetica, Arial, sans-serif;
     display: grid;
-    grid-template-rows: clamp(200px, 30vh, 30vh) 1fr 5vh;; /*nifty trick to make the page scrollable and the header always at the bottom!*/
+    grid-template-rows: clamp(200px, 30vh, 30vh) 1fr 5vh; /*nifty trick to make the page scrollable and the header always at the bottom!*/
     margin:0;
     height:100vh;
     --barnard_blue: #012f6c;
@@ -87,7 +87,7 @@ button:hover{
     grid-template-columns: auto auto;
     padding-right:30px;
     padding-left:30px;
-    min-height: 65vh;
+    overflow-y: auto;
 }
 
 .intro{
