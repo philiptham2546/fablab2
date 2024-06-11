@@ -162,7 +162,7 @@ button:hover{
     justify-content: center;
 }*/
 
-#us-map{
+#usmap{
     width: clamp(40vw,100%,100vw);
     height: clamp(30vw,100%,100vw);
 }
