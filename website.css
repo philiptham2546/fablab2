@@ -87,7 +87,7 @@ button:hover{
     grid-template-columns: auto auto;
     padding-right:30px;
     padding-left:30px;
-    overflow-y: auto;
+    /*overflow-y: auto;*/
 }
 
 .intro{
