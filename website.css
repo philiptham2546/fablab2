@@ -1,7 +1,7 @@
 body{
     font-family: Helvetica, Arial, sans-serif;
     display: grid;
-    grid-template-rows: clamp(200px, 30vh, 30vh) 1fr auto; 
+    grid-template-rows: clamp(200px, 30vh, 30vh) 1fr 5vh; 
     margin:0;
     height:100vh;
     --barnard_blue: #012f6c;
